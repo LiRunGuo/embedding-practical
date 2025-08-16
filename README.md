@@ -1,6 +1,6 @@
-## Embedding 技术实战（示例项目）
+## Embedding 技术实战
 
-本项目依据 `embedding技术.txt` 内容复刻与整理，提供 PyTorch 基础 Embedding、Word2Vec（Skip-gram）示例，以及基于 LlamaIndex 的 Embedding 微调、评估（Hit-Rate / MRR）与 MTEB 评测的可运行脚本。
+本项目依据提供 PyTorch 基础 Embedding、Word2Vec（Skip-gram）示例，以及基于 LlamaIndex 的 Embedding 微调、评估（Hit-Rate / MRR）与 MTEB 评测的可运行脚本。
 
 ---
 
